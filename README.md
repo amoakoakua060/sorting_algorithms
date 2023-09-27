@@ -2,11 +2,11 @@
 
 ## Sorting Algorithms in C Programming Language
 
-This project deals with different algorithms for sorting. Some of which are:
+This project deals with different algorithms for sorting array of integers and linked lists. Some of which are:
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
+- Quick Sort
 
 ## Contributors
-Favour Edobor: mzfavvy20@gmail.com
-Robert Amoah: mr_robertamoah@yahoo.com
+Akua Achiaa <Ekuaamoako11@gmail.com>
